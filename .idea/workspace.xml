@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ba8cc17-2966-4eeb-bdf9-1e72ef0b1679" name="Default Changelist" comment="" />
+    <list default="true" id="8ba8cc17-2966-4eeb-bdf9-1e72ef0b1679" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numbers_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/numbers_factory.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.speech_module">
+  <component name="RunManager" selected="Python.numbers_factory">
     <configuration name="count_consecutive_summers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Check.IO" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,9 +126,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.numbers_factory" />
         <item itemvalue="Python.speech_module" />
         <item itemvalue="Python.roman_numerals" />
-        <item itemvalue="Python.numbers_factory" />
         <item itemvalue="Python.count_consecutive_summers" />
       </list>
     </recent_temporary>
@@ -148,7 +151,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
